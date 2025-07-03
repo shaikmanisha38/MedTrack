@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1751034254128,
+    "doctorId": 1751034162508,
+    "doctorName": "MANISHA SHAIK",
+    "specialty": "cardiologist",
+    "patientId": 1751034018078,
+    "patientName": "MANISHA SHAIK ",
+    "date": "2025-06-28",
+    "time": "10:00",
+    "reason": "fever",
+    "status": "Completed",
+    "precautions": "eat idly",
+    "prescription": "Dolo - Morning"
+  },
+  {
+    "id": 1751348730865,
+    "doctorId": 1751348506443,
+    "doctorName": "Manisha shaik",
+    "specialty": "dermatologist",
+    "patientId": 1751348103723,
+    "patientName": "varun panchakarla",
+    "date": "2025-07-03",
+    "time": "09:00",
+    "reason": "Dark spots",
+    "status": "Completed",
+    "precautions": "Take more water everyday",
+    "prescription": "vitamin A - Morning"
+  }
+]

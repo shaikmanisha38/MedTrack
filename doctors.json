@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1751034162508,
+    "name": "MANISHA SHAIK",
+    "specialization": "cardiologist",
+    "license": "39",
+    "experience": "2",
+    "hospital": "manishaclinic",
+    "email": "manishashaik38@gmail.com",
+    "phone": "07287023291",
+    "address": "koritipadu,Guntur,Andhra pradesh",
+    "password": "$2b$10$BEYQLwfDO8y.S4OnHvxHuOngYsqgxLRURxl1fDlraqiOCzE02xl6m",
+    "role": "doctor"
+  },
+  {
+    "id": 1751348506443,
+    "name": "Manisha shaik",
+    "specialization": "dermatologist",
+    "license": "123765",
+    "experience": "5",
+    "hospital": "Manishaclinic",
+    "email": "manisha@gmail.com",
+    "phone": "8309095873",
+    "address": "Guntur,Andhra pradesh",
+    "password": "$2b$10$T8y5GeNBb40MPNeXvpyQs.yaBjVJzl8VUVe4YvJn9A8hKIAr51b1G",
+    "role": "doctor"
+  }
+]
