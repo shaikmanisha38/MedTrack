@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1751034018078,
+    "name": "MANISHA SHAIK ",
+    "dob": "18",
+    "gender": "female",
+    "email": "manishashaik38@gmail.com",
+    "phone": "7287023291",
+    "address": "koritipadu,Guntur,Andhra pradesh",
+    "password": "$2b$10$iey9FPmvfByckYh5Jso9oeXM348dKuWPE0/ObUwe07DmVDbh1C1tK",
+    "role": "patient"
+  },
+  {
+    "id": 1751348103723,
+    "name": "varun panchakarla",
+    "dob": "20",
+    "gender": "male",
+    "email": "varun@gmail.com",
+    "phone": "9867543218",
+    "address": "Guntur,Andhra pradesh",
+    "password": "$2b$10$C5WGk9Su019G.34YUd6aee1ZfL/imwzVJiE9IJkdaTZsk0alGrH7K",
+    "role": "patient"
+  }
+]
